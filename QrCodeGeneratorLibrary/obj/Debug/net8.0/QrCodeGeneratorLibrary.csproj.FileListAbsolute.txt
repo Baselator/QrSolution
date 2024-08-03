@@ -1,0 +1,12 @@
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\bin\Debug\net8.0\QrCodeGeneratorLibrary.deps.json
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\bin\Debug\net8.0\QrCodeGeneratorLibrary.dll
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\bin\Debug\net8.0\QrCodeGeneratorLibrary.pdb
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\QrCodeGeneratorLibrary.csproj.AssemblyReference.cache
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\QrCodeGeneratorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\QrCodeGeneratorLibrary.AssemblyInfoInputs.cache
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\QrCodeGeneratorLibrary.AssemblyInfo.cs
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\QrCodeGeneratorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\QrCodeGeneratorLibrary.dll
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\refint\QrCodeGeneratorLibrary.dll
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\QrCodeGeneratorLibrary.pdb
+C:\Users\basel\source\repos\QrCodeSolution\QrCodeGeneratorLibrary\obj\Debug\net8.0\ref\QrCodeGeneratorLibrary.dll

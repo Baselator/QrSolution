@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\obj\\Debug\\net8.0\\compressed\\0a8ko2yz02.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QrCodeApp.styles.css",
+      "PackagePath": "staticwebassets\\QrCodeApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QrCodeApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QrCodeApp.props",
+      "PackagePath": "build\\QrCodeApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QrCodeApp.props",
+      "PackagePath": "buildMultiTargeting\\QrCodeApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QrCodeApp.props",
+      "PackagePath": "buildTransitive\\QrCodeApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

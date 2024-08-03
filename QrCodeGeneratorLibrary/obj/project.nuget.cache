@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "k58oNPCChgQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basel\\source\\repos\\QrCodeSolution\\QrCodeGeneratorLibrary\\QrCodeGeneratorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basel\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\basel\\.nuget\\packages\\net.codecrete.qrcodegenerator\\2.0.5\\net.codecrete.qrcodegenerator.2.0.5.nupkg.sha512",
+    "C:\\Users\\basel\\.nuget\\packages\\sixlabors.fonts\\2.0.4\\sixlabors.fonts.2.0.4.nupkg.sha512",
+    "C:\\Users\\basel\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\basel\\.nuget\\packages\\sixlabors.imagesharp.drawing\\2.1.4\\sixlabors.imagesharp.drawing.2.1.4.nupkg.sha512",
+    "C:\\Users\\basel\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
